@@ -23,3 +23,8 @@ pouvoir répondre à (et aussi vous poser) pleins de questions, de façon rapide
 mettre un visage et une voix sur une personnalité  
 -entretien physique  
 se voir et discuter sur divers sujets et aussi voir la logistique réelle du transport  
+
+**OpusDomus**  
+OpusDomus a été créé pour répondre à une attente... aujourd'hui le développement logiciel et web plus particulièrement est central dans beaucoup de projets, mais traité encore trop souvent comme une contrainte subie.  
+Notre vision du développement est de le faire passer à l'âge adulte... des développeurs responsables, fiables, qui travaillent de chez eux (pourquoi faire trois heures de transport pour s'assoir devant un ordinateur et mettre son casque?), dans de bonnes conditions, épaulées par une équipe expérimentée, avec des méthodes et des outils d'aujourd'hui.  
+On vous promets pas monts et merveilles mais un travail sérieux, rémunérateur, parfois des projets intéressants, mais surtout stabilité et confort pour votre travail.
