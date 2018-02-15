@@ -15,12 +15,12 @@ Recherche quelqu'un de stable, responsable et qualifié
 *Comment répondre à cette annonce?*
 
 Envoyer un email à hello@opusdomus.fr avec
-*un texte concis (5 lignes maximum) de présentation de votre parcours
-*trois exemples de sites web développés avec Drupal
-*fournir pour chaque site un exemple de code développé
+-un texte concis (5 lignes maximum) de présentation de votre parcours
+-trois exemples de sites web développés avec Drupal
+-fournir pour chaque site un exemple de code développé
 
 *Le processus de recrutement*
-*votre vie en 5 lignes
-*du code
-*entretien vidéo
-*entretien physique
+-votre vie en 5 lignes
+-du code
+-entretien vidéo
+-entretien physique
