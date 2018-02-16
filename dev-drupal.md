@@ -25,6 +25,9 @@ mettre un visage et une voix sur une personnalité
 se voir et discuter sur divers sujets et aussi voir la logistique réelle du transport  
 
 **OpusDomus**  
-OpusDomus a été créée pour répondre à une attente... aujourd'hui le développement logiciel et web plus particulièrement est central dans de nombreux projets, mais traité encore trop souvent comme une contrainte subie.  
-Notre vision du développement est de le faire passer à l'âge adulte... des développeurs responsables, fiables, qui travaillent de chez eux (pourquoi faire trois heures de transport pour s'asseoir devant un ordinateur et mettre son casque?), dans de bonnes conditions, épaulées par une équipe expérimentée, avec des méthodes et des outils d'aujourd'hui.  
-On ne vous promets pas monts et merveilles mais un travail sérieux, rémunérateur, parfois des projets intéressants, mais surtout stabilité et confort dans votre travail.
+Nous voulons offrir à nos clients un service professionnel, fiable et constant.   
+Construire et maintenir des sites et outils efficaces, à partir de briques open-sources solides que nous maîtrisons parfaitement.  
+Pour faire passer le développement à l'âge adulte, nous souhaitons nous entourer de développeurs responsables, autonomes, épaulés par une équipe expérimentés et une méthodologie zero-bullshit.  
+OpusDomus, c'est une entreprise par des développeurs, pour des développeurs.   
+Rare sont les développeurs qui s'épanouissent dans un open-space, nous relevons donc le pari d'une équipe 100% en télétravail, s'appuyant sur des outils collaboratifs qui ont fait leurs preuves.  
+On ne vous promets pas monts et merveilles mais un travail sérieux, rémunérateur, parfois des projets intéressants, et surtout stabilité et confort dans votre mission.
