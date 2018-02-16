@@ -1,10 +1,10 @@
 **CDI - Télétravail - Développeur expérimenté Full Stack spécialiste Drupal**  
-Poste en CDI - full télétravail  
+Poste en CDI - télétravail à temps plein  
 Développeur web expérimenté  
 Très bonne connaissance de la stack web: HTML, CSS, Javascript, PHP, MySQL, etc.  
 Spécialiste Drupal 7  
 Expérience avec Magento, Wordpress, Symfony un plus  
-Recherche quelqu'un de stable, responsable et qualifié  
+Recherche quelqu'un de stable, autonome, responsable et qualifié  
 
 *Comment répondre à cette annonce?*  
 Envoyer un email à hello@opusdomus.fr avec en titre "DevDrupal"   
