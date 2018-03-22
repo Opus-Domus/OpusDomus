@@ -12,7 +12,7 @@ Recherche quelqu'un de stable, autonome, responsable et qualifié
 *Comment répondre à cette annonce?*  
 Envoyer un email à hello@opusdomus.fr avec en titre "DevWordpress"   
 - un texte concis (5 lignes maximum) de présentation, qui vous êtes, votre parcours, etc...  
-- trois exemples de sites web développés avec Drupal  
+- trois exemples de sites web développés avec wordpress  
 - fournir pour chaque site un exemple de code développé  
 
 *Le processus de recrutement*  
