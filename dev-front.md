@@ -9,9 +9,9 @@ Expérience avec Wordpress, Magento, Drupal, Symfony un plus
 Recherche quelqu'un de stable, autonome, responsable et qualifié  
 
 *Comment répondre à cette annonce?*  
-Envoyer un email à hello@opusdomus.fr avec en titre "DevDrupal"   
+Envoyer un email à hello@opusdomus.fr avec en titre "DevFront"   
 - un texte concis (5 lignes maximum) de présentation, qui vous êtes, votre parcours, etc...  
-- trois exemples de sites web développés avec Drupal  
+- trois exemples de sites web développés  
 - fournir pour chaque site un exemple de code développé  
 
 *Le processus de recrutement*  
